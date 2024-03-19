@@ -1,7 +1,7 @@
-# Weekly Active Paying Players (WAPP) Analysis
+# Weekly Active Paying People (WAPP) Analysis
 
 ## Overview
-This project focuses on analyzing the trends and factors affecting Weekly Active Paying Players (WAPP). The primary goal is to understand the causes of fluctuations in WAPP, identify any alarming trends, and develop an automated alert system for significant changes.
+This project focuses on analyzing the trends and factors affecting Weekly Active Paying People (WAPP). The primary goal is to understand the causes of fluctuations in WAPP, identify any alarming trends, and develop an automated alert system for significant changes.
 
 ## Problem Statement
 We observed unexpected fluctuations in the WAPP count, including sharp increases and decreases that triggered alerts within our monitoring systems. These fluctuations necessitated a deeper analysis to determine their causes, assess the reliability of the alerts, and understand the impact of various factors such as user resurrection and churn rates.
